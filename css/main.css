@@ -1,0 +1,39 @@
+Body {
+font-family: 'Josefin Sans', sans-serif;
+background-color: white;
+padding: 0;
+margin: 0;
+}
+ul{
+	margin: 0;
+	list-style-type: none;
+}
+li{
+	margin-left: 5px;
+	margin-right: 90px;
+}
+button{
+	display: inline-block;
+	border-radius: 7px;
+	border: 2px solid white;
+	padding: 14x 13px;
+	cursor: pointer;
+}
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.header-nav{
+	display: flex;
+	align-items: center;
+}
+.samwayle-header{
+	font-size: 32px;
+	font-family: 'Cedarville Cursive', cursive;
+	padding-left: 189px;
+
+}
+.flex-item-1:hover{
+	background: #2D635E;
+}
